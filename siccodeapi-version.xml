@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <siccodeapi>
     <currentVersion>
-        <major>0.2</major>
-        <minor>0.1</minor>
-        <build>0.1</build>
+        <major>1</major>
+        <minor>1</minor>
+        <build>1</build>
     </currentVersion>
     <path>https://myCoolApp.zip</path>
 </siccodeapi>
