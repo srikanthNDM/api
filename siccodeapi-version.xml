@@ -3,7 +3,7 @@
     <currentVersion>
         <major>0.1</major>
         <minor>0.1</minor>
-        <build>0.1</build>
+        <build>0.2</build>
     </currentVersion>
     <path>https://myCoolApp.zip</path>
 </siccodeapi>
